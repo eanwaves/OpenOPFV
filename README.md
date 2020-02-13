@@ -16,3 +16,5 @@ For the next few weeks we'll be looking to add support for streaming data in the
 
 4. Additonal resources:
 OPF r&d work has been going on for more than five decades. But recently, thanks to brilliant research from top tier universitiies and funding from ARPA-E, tremendous prgress has been made in US and globally. Some of the most recent reserach results have been published from Caltech, Michigan, Stanford, Columbia, Cornell, Brown, Berkeley, Wisconsin, Washington, Georgia Tech, Texas A&M, several universities in France, Spain and Australia, PNNL, ORNL, LANL and LLNL. OpenOPFV is a brand new project and as things acelerate, related research will be posted in the documentation section of this repository #EANWaves
+
+Note: we've been working to fix a visibility issue in GitHub, for some reason this project doesn't show up on any web search through 11 Feb 2020, even if this is a public respository. We'll make sure we tag this again #OpenOPF #OpenOPFV #EANWaves #EnergyAdaptiveNetworks - and work out the kinks with the GitHub team
